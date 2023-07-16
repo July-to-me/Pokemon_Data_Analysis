@@ -1,11 +1,18 @@
 # Pokemon_Data_Analysis
-I created this project to showcase what I can do with data. This is something that I am passionate about to a point where I want to do more in the future. I believe that I worked on it for 2 months, but I can clearly see myself working on it for more!
+I created this project to showcase what I can do with data. This is something that I am passionate about to the point where I want to do more in the future. I believe that I worked on it for 2 months, but I can clearly see myself working on it for more!
+
+## Objective
+
+In this project, I wanted to see if I can predict if a one can predict a Legendary Pokemon based on its stats, and if there's a specialization in each Pokemon type. :
+1. Getting the data via Kaggle, and loading it in Google Colab (so I can access it on multiple devices).
+3. Creating various data frames in order to group them based on types and legendary in order to do Exploratory Data Analysis.
+4. I then used statistical techniques such as ANOVA, K-Means clustering, and others to answer my questions about legendary prediction and specialization.
+5. I later used different machine-learning techniques to predict a Pokemon's legendary status and ask other questions that interested me.
 
 
 
 
-
-This dataset contains X rows, and Y columns for the variables listed below. The following contains stats in Pokemon: A pokemon has a unique set of stats that contribute to the Pokemon's identity. 
+This dataset contains X rows and Y columns for the variables listed below. The following contains stats in Pokemon: A Pokemon has a unique set of stats that contribute to the Pokemon's identity. 
 
 Variable  |Description |
 -----|-----|
