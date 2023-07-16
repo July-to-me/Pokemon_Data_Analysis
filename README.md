@@ -32,7 +32,7 @@ Here is a small conclusion that I've found based on my findings:
 - Ghost-types have a random distribution of stats than other typings. This means that there may be no way of predicting where what stat/attribute will be more prominent in the next set of generations.
 
 
-
+## Dataset
 
 This dataset contains X rows and Y columns for the variables listed below. The following contains stats in Pokemon: A Pokemon has a unique set of stats that contribute to the Pokemon's identity. 
 
