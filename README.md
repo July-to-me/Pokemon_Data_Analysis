@@ -9,6 +9,12 @@ In this project, I wanted to see if I can predict if a one can predict a Legenda
 4. I then used statistical techniques such as ANOVA, K-Means clustering, and others to answer my questions about legendary prediction and specialization.
 5. I later used different machine-learning techniques to predict a Pokemon's legendary status and ask other questions that interested me.
 
+## Dataset
+
+I've used a dataset that I've found in Kaggle. I was unable to extract the JSON file from the Pokemon.apk website, nor do datamining from a wiki page or another website containing all Pokemon. 
+
+More info about the dataset can be found here:
+- Website: https://www.kaggle.com/datasets/abcsds/pokemon?datasetId=121&sortBy=dateCreated
 
 
 
