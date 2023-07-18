@@ -11,7 +11,7 @@ In this project, I wanted to see if I can predict if a one can predict a Legenda
 
 ## Dataset
 
-I've used a dataset that I've found in Kaggle. I was unable to extract the JSON file from the Pokemon.apk website, nor do datamining from a wiki page or another website containing all Pokemon. 
+I've used a dataset that I've found in Kaggle. I was unable to extract the JSON file from the Pokemon.apk website, nor do data mining from a wiki page or another website containing all Pokemon. 
 
 More info about the dataset can be found here:
 - Website: https://www.kaggle.com/datasets/abcsds/pokemon?datasetId=121&sortBy=dateCreated
@@ -21,8 +21,8 @@ More info about the dataset can be found here:
 Here is a small conclusion that I've found based on my findings:
 - Pokemon with one type from generation 5-7 has experienced a big nose dive in representation. We can also see Pokemon with two types did also suffer from not having a lot of representation as well.
 - Overall, the population between one-type and two-type Pokemon does seem similar until the mentioned nose dive from generation 5-6, where two-type Pokemon have more representation in Pokemon games.
-- When conducting a T-test, I found that Pokemon with two-type and one-type are statistically significant from one another. This means that Pokemon with two types, on average, had usually higher stats than pokemon with one type.
-- Water types have a big representation at a whopping 10.63%, followed by Normal-types 9.40%. But when it comes to legendary Pokemon, Psychic, and Dragon-types become the most potent (16.84% and 11.05% respectively).
+- When conducting a T-test, I found that Pokemon with two-type and one-type are statistically significant from one another. This means that Pokemon with two types, on average, had usually higher stats than Pokemon with one type.
+- Water types have a big representation at a whopping 10.63%, followed by Normal-types at 9.40%. But when it comes to legendary Pokemon, Psychic, and Dragon-types become the most potent (16.84% and 11.05% respectively).
 - Shockingly Fire types are not even the top 5 most frequent types despite being the main 3 types to be selected at the beginning of the game as a starter Pokemon. As well as not being a potent type when it comes to legendary Pokemon.
 - Every 'Total' stat, on average (per generation/region), for non-legendary-pokemon has been very consistent.
 - Same goes for legendary but generation 7th (Alola) has experienced an average total stat of 561 (a huge 10% decrease of the total average of all legendaries)
